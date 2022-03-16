@@ -1,5 +1,7 @@
 # Education Cost Analysis
 
+![alt text](https://memegenerator.net/img/instances/59495189.jpg)
+
 ## Project Desciption
 The College Scorecard project is designed to increase transparency, putting the power in the hands of students and families to compare how well individual postsecondary institutions are preparing their students to be successful. This project provides data to help students and families compare college costs and outcomes as they weigh the tradeoffs of different colleges, accounting for their own needs and educational goals. My goal with this project is to make these data more accessible and transparent so that families can make the most informed decision when deciding what postsecondary school is best for them.
 
