@@ -1,9 +1,9 @@
 # Education Cost Analysis
 
-# Project Desciption
+## Project Desciption
 The College Scorecard project is designed to increase transparency, putting the power in the hands of students and families to compare how well individual postsecondary institutions are preparing their students to be successful. This project provides data to help students and families compare college costs and outcomes as they weigh the tradeoffs of different colleges, accounting for their own needs and educational goals. My goal with this project is to make these data more accessible and transparent so that families can make the most informed decision when deciding what postsecondary school is best for them.
 
-#Metrics:
+### Metrics:
 Regional price of tuition (State/County/University) will be visualized, as well as forecasting of price for different levels of institutions (private/public/private for-profit).
 - How much tuition goes to the student
 - Earning potential per university (4-10 years post graduation)
