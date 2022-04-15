@@ -8,7 +8,7 @@ The College Scorecard project is designed to increase transparency, putting the 
 My goal with this project is to make these data more accessible and transparent so that families can make the most informed decision when deciding what postsecondary school is best for them.
 
 ### Deliverables:
-The full breakdown of this analysis will be presented on my personal web page [Here](https://share.streamlit.io/jonathjd/webapp/main/main.py) 
+The full breakdown of this analysis will be presented on my personal web page [here](https://share.streamlit.io/jonathjd/webapp/main/main.py) 
 
 ![alit text](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/23262380-2186-4f43-86ad-9a96c55114a5.gif?ClientID=vimeo-core-prod&Date=1649943283&Signature=8dc1014c80b5258dca6335967b3c979d2aa628ca)
 
